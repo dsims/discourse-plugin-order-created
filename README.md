@@ -1,4 +1,4 @@
-# **Plugin Name** Plugin
+# **Discourse Plugin Order Created** Plugin
 
 **Plugin Summary**
 
