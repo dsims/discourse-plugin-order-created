@@ -1,4 +1,4 @@
 discourse_plugin_order_created:
   discourse_plugin_order_created_enabled:
     default: false
-    client: true
+    client: false

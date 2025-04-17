@@ -1,5 +1,5 @@
-# **Discourse Plugin Order Created** Plugin
+# **Default Order Created**
 
-**Plugin Summary**
+**Discourse Plugin Summary**
 
-For more information, please see: **url to meta topic**
+Makes created_at the *default* sort order for topics

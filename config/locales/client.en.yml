@@ -3,7 +3,7 @@ en:
     admin:
       site_settings:
         categories:
-          discourse_plugin_order_created: "Discourse Plugin Order Created"
+          discourse_plugin_order_created: "Default Order Created"
   js:
     discourse_plugin_order_created:
       placeholder: placeholder
